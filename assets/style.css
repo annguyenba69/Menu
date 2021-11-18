@@ -1,0 +1,37 @@
+
+/* ==========WP-CONTENT========== */
+
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#wp-content .product {
+    margin-bottom: 30px;
+}
+
+#wp-content img{
+    height: 150px;
+    width: 100%;
+    object-fit: cover;
+    border-radius: 5px;
+}
+
+#wp-content .title {
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 1px dotted;
+}
+
+#wp-content .title span {
+    color: #c59d5f;
+    font-weight: 600;
+}
+
+#wp-content p {
+    color: #617d98;
+    font-weight: 400;
+}
+
+#navbar {
+    background-color: #e9ecef!important;
+}
